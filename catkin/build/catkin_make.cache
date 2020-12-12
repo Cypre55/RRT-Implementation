@@ -1,0 +1,2 @@
+turtcontrol:turtlesim_cleaner
+-DCATKIN_DEVEL_PREFIX=/home/chaoticsaint/Desktop/KRSSG/3/catkin/devel -DCMAKE_INSTALL_PREFIX=/home/chaoticsaint/Desktop/KRSSG/3/catkin/install -G Unix Makefiles

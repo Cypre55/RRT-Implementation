@@ -1,0 +1,8 @@
+prefix=/home/chaoticsaint/Desktop/KRSSG/3/catkin/install
+
+Name: turtlesim_cleaner
+Description: Description of turtlesim_cleaner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

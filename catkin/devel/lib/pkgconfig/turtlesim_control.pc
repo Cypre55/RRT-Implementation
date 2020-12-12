@@ -1,0 +1,8 @@
+prefix=/home/chaoticsaint/Desktop/KRSSG/3/catkin/devel
+
+Name: turtlesim_control
+Description: Description of turtlesim_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
